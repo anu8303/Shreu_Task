@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN"
+        crossorigin="anonymous"></script>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+<!-- navbar -->
+<div class="Main_container">
+
+    <header>
+        <nav class="container">
+            <div class="logo"><img src="logo.webp" alt="" style="width:50px; margin-left: -150px;"></div>
+
+            <ul>
+                <a href="#hero">
+                    <li>Overview</li>
+                </a>
+                <a href="#music">
+                    <li>Music</li>
+                </a>
+                <a href="#video">
+                    <li>Video</li>
+                </a>
+                <a href="#gift">
+                    <li>Gift Cards</li>
+                </a>
+            </ul>
+        </nav>
+    </header>
+    <div class="middlecointer">
+        <div class="tcolor">
+
+            <!-- <section class="hero-section" id="hero">
+                <div class="container" style="color: white">
+                    <h1>We crush minimal design</h1>
+                    <p>
+                        Monochrome is a creative agency based in Chicago. We developed the Genesis Framework and build
+                        mobile-optimized themes for WordPress.
+                    </p>
+                </div>
+            </section> -->
+
+            <div class="image_div">
+                <img src="wecrush.png">
+                <h2 class="main-text-heading">We Crush<br>minimal<br>design.</h2>
+                <p class="main-text-para">MONOCHROME is a creative agency based in chiango. We <br>developed the Genesis
+                    Framework and build mobile-optimized <br>themes for WordPress.</p>
+            </div>
+
+        </div>
+        <div class="middle" style="margin: 50px 160px 0 160px;">
+            <div class="text">
+
+                <h1>We build experience.
+                </h1>
+                <p>A minimalist approach is the only way to design a website.
+
+                    <hr style="width: 4%; margin: 40px 0 60px; border-top: 2px solid;" />
+            </div>
+            <div class="main3" style="display: flex; margin-top: 40px;">
+                <div class="main1">
+
+                    <h1>Design</h1>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla nesciunt quasi ullam
+                        exercitationem.
+                        Ipsa animi libero accusamus laudantium aut maxime temporibus adipisci minus quam sequi,
+                        inventore
+                        quos veritatis vero odit.</p>
+                    <button type="button" class="btn btn-dark">Learn More</button>
+                </div>
+                <div class="main2">
+
+                    <h1>Design</h1>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla nesciunt quasi ullam
+                        exercitationem.
+                        Ipsa animi libero accusamus laudantium aut maxime temporibus adipisci minus quam sequi,
+                        inventore
+                        quos veritatis vero odit.</p>
+                    <button type="button" class="btn btn-dark">Learn More</button>
+
+                </div>
+                <div class="main3">
+
+                    <h1>Design</h1>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla nesciunt quasi ullam
+                        exercitationem.
+                        Ipsa animi libero accusamus laudantium aut maxime temporibus adipisci minus quam sequi,
+                        inventore
+                        quos veritatis vero odit.</p>
+                    <button type="button" class="btn btn-dark">Learn More</button>
+
+                </div>
+            </div>
+
+
+        </div>
+    </div>
+    <div class="2ndmiddlecontainer" style="margin: 50px 160px 0 160px;">
+        <div class="textofm">
+            <h1>
+                We design brands.</h1>
+            <p>A simple look is all you need to crush your competition.</p>
+            <hr style="width: 4%; margin: 40px 0 40px 0; border-top: 2px solid;" />
+
+        </div>
+        <div class="italic" style="display: flex; justify-content: space-between;">
+            <h3>whitespace</h3>
+            <h3>whitespace</h3>
+            <h3>whitespace</h3>
+            <h3>whitespace</h3>
+            <h3>whitespace</h3>
+            <h3>whitespace</h3>
+        </div>
+    </div>
+
+    <div class="3rdmiddlecontainer" style="margin: 50px 160px 0 160px;">
+        <div class="textofm">
+            <h1>
+                We create stories.</h1>
+            <p>A killer narrative will turn your readers into raving fans.
+
+            </p>
+            <hr style="width: 4%; margin: 40px 0 40px 0; border-top: 2px solid;" />
+
+
+            <div class="row">
+                <div class="column">
+                    <img src="img1.jpg" alt="Snow" style="width:100%">
+                    <h7 style="font-weight: bold;">OVERCOMING CREATIVE BLOCK</h7>
+                    <p>Brian Gardner May 1, 2017</p>
+                </div>
+                <div class="column">
+                    <img src="ig2.jpg" alt="Forest" style="width:100%">
+                    <h7 style="font-weight: bold;">OVERCOMING CREATIVE BLOCK</h7>
+                    <p>Brian Gardner May 1, 2017</p>
+
+                </div>
+                <div class="column">
+                    <img src="img3.jpg" alt="Mountains" style="width:100%">
+                    <h7 style="font-weight: bold;">OVERCOMING CREATIVE BLOCK</h7>
+                    <p>Brian Gardner May 1, 2017</p>
+
+                </div>
+                <div class="column">
+                    <img src="img4.jpg" alt="Mountains" style="width:100%">
+                    <h7 style="font-weight: bold;">OVERCOMING CREATIVE BLOCK</h7>
+                    <p>Brian Gardner May 1, 2017</p>
+
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<body>
+
+</body>
+
+</html>
